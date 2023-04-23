@@ -38,3 +38,5 @@ N/A
 ## Application Image
 
 Below is an image of the deployed application:
+
+![alt text](./assets/127.0.0.1_5500_repos_5-Day-Weather-Forecast-C6_index.html.png)
